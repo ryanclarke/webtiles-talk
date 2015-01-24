@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tile>
+  <visual lang="en-US" version="2">
+    <binding template="TileSquare150x150Block" fallback="TileSquareBlock">
+      <text id="1">2</text>
+      <text id="2">tile</text>
+    </binding>  
+
+    <binding template="TileWide310x150BlockAndText01" fallback="TileWideBlockAndText01">
+      <text id="1">5:00am: arise</text>
+      <text id="2">11:30am: lunch</text>
+      <text id="3">5:30pm: Auri's pizza</text>
+      <text id="4">6:30pm?: Webtiles talk</text>
+      <text id="5">19</text>
+      <text id="6">June</text>
+    </binding>  
+  </visual>
+</tile>

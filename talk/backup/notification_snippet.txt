@@ -1,0 +1,4 @@
+    <notification>
+      <polling-uri  src="tile1.xml"/>
+      <polling-uri2 src="tile2.xml"/>
+    </notification>

@@ -1,0 +1,2 @@
+    <meta name="application-name" content="Company"/> 
+    <meta name="msapplication-config" content="browserconfig.xml"/> 
